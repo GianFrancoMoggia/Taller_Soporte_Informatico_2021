@@ -1,0 +1,22 @@
+import pandas as pd
+
+df = pd.read_csv("beneficiarios_primera_casa_BA-2018.csv")
+#dfIndexado = df.set_index("genero")
+#dfSinVacios = dfIndexado.dropna()
+
+dfSinVacios = df.dropna()
+
+dfSinDuplicados = dfSinVacios.drop_duplicates()
+
+df1 = dfSinDuplicados.iloc[0:3000]
+
+index1 = len(dfSinDuplicados) - 2001
+index2 = len(dfSinDuplicados) - 1
+
+df2 = dfSinDuplicados.iloc[index1: index2]
+
+dfFinal = pd.concat([df1,df2])
+
+print(len(dfFinal))
+
+dfFinal.to_csv("nuevo.csv")
