@@ -1,0 +1,35 @@
+import pandas as pd
+
+#1
+df = pd.read_csv("beneficiarios_primera_casa_BA-2018.csv")
+#2
+dfIndexado = df.set_index("genero")
+#3
+dfSinDuplicados= df.drop_duplicates()
+#4
+dfSinVacios = dfSinDuplicados.dropna()
+#5
+dfSinVacios.to_csv("nuevo.csv")
+#6
+df1 = dfSinVacios.iloc[0:3000]
+
+index1 = len(dfSinVacios) - 2001
+index2 = len(dfSinVacios) - 1
+
+df2 = dfSinDuplicados.iloc[index1: index2]
+
+dfFinal = pd.concat([df1,df2])
+
+print(len(dfFinal))
+
+dfFinal.to_csv("nuevo.csv") #se supone q lo pisa/reescribe al anterior nuevo.csv
+#7
+df2 = pd.read_csv("nuevo.csv")
+print(df2)
+#8
+df2.loc[[1,5,12,36]]
+#9
+print(list(df2.columns))
+#10
+print(df2['nivel_educativo'])
+
