@@ -25,11 +25,13 @@ print(len(dfFinal))
 
 dfFinal.to_csv("nuevo.csv") #se supone q lo pisa/reescribe al anterior nuevo.csv
 #7
-df2 = pd.read_csv("nuevo.csv")
+df2 = pd.read_csv("nuevo.csv",sep=";")
 print(df2)
 #8
 df2.loc[[1,5,12,36]]
 #9
 print(list(df2.columns))
 #10 indexer = self.columns.get_loc(key)
-df2.loc[0:399,'genero']
+print(df2['nivel_educativo'])
+
+
