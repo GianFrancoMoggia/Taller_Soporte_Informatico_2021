@@ -1,9 +1,10 @@
+
 import pandas as pd
 
 #1
 df = pd.read_csv("beneficiarios_primera_casa_BA-2018.csv")
 #2
-dfIndexado = df.set_index("genero")
+#dfIndexado = df.set_index("genero") mi csv no sirve para poner index porque no tiene ninguna columna para ello
 #3
 dfSinDuplicados= df.drop_duplicates()
 #4
@@ -30,6 +31,5 @@ print(df2)
 df2.loc[[1,5,12,36]]
 #9
 print(list(df2.columns))
-#10
-print(df2['nivel_educativo'])
-
+#10 indexer = self.columns.get_loc(key)
+df2.loc[0:399,'genero']
