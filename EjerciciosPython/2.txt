@@ -1,0 +1,27 @@
+
+import pandas as pd
+import matplotlib.pyplot as plt1
+import matplotlib.pyplot as plt2
+
+df1=pd.read_csv('dataset_viajes_sube.csv')
+x_values_tipo_transporte = df1['TIPO_TRANSPORTE'].unique()
+y_values_tipo_transporte = df1['TIPO_TRANSPORTE'].value_counts().tolist()
+y_values_tipo_transporte.reverse()
+
+x_values_dia = df1['DIA'].unique()
+y_values_dia = df1['DIA'].value_counts().tolist()
+y_values_dia.reverse()
+
+#grafico1
+plt1.bar(x_values_tipo_transporte,y_values_tipo_transporte)
+plt1.title('TRANSPORTE')
+plt1.xlabel('x')
+plt1.ylabel('y')
+plt1.show()
+
+#grafico2
+plt2.bar(x_values_dia,y_values_dia)
+plt2.title('HORARIO')
+plt2.xlabel('x')
+plt2.ylabel('y')
+plt2.show()
