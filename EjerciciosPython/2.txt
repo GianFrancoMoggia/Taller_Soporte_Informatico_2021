@@ -25,3 +25,33 @@ plt2.title('HORARIO')
 plt2.xlabel('x')
 plt2.ylabel('y')
 plt2.show()
+
+
+#%%
+
+import pandas as pd
+import matplotlib.pyplot as plt1
+import matplotlib.pyplot as plt2
+
+df1=pd.read_csv('tip_viol_pare_annio__g_edad__t_viol_obs_limpio.csv')
+x_values_tipo_violencia = df1['tipo_violencia'].unique()
+y_values_tipo_violencia = df1['tipo_violencia'].value_counts().tolist()
+y_values_tipo_violencia.reverse()
+
+x_values_grupo_edad = df1['grupo_edad'].unique()
+y_values_porc_mujeres = df1['porc_mujeres'].value_counts().tolist()
+y_values_porc_mujeres.reverse()
+
+#grafico1
+plt1.bar(x_values_tipo_violencia,y_values_tipo_violencia)
+plt1.title('CUANTAS VECES SE USO C/ VIOLENCIA')
+plt1.xlabel('VIOLENCIA')
+plt1.ylabel('USOS')
+plt1.show()
+
+#grafico2
+plt2.bar(x_values_grupo_edad,y_values_porc_mujeres)
+plt2.title('PORCENTAJE DE VIOLENCIA POR EDAD')
+plt2.xlabel('')
+plt2.ylabel('% DE VIOLENCIA')
+plt2.show()
