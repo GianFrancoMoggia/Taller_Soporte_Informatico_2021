@@ -1,3 +1,4 @@
+#%%
 
 import pandas as pd
 #1
@@ -16,8 +17,8 @@ df.dropna()
 df.to_csv("nuevo.csv")
 #6
 #df1 = dfSinVacios
-df.loc[0:299]
-df.loc[200:399]
+df.iloc[0:299]
+df.iloc[198:398]
 '''index1 = len(dfSinVacios) - 301
 index2 = len(dfSinVacios) - 1
 
@@ -30,7 +31,7 @@ print(len(dfFinal))
 dfFinal.to_csv("nuevo.csv") #se supone q lo pisa/reescribe al anterior nuevo.csv
 '''
 
-df2 = pd.read_csv("nuevo.csv",sep=";")
+df2 = pd.read_csv("nuevo.csv")
 #7
 print(df2)
 #8
@@ -39,3 +40,6 @@ df2.loc[[1,5,12,36]]
 print(list(df2.columns))
 #10 indexer = self.columns.get_loc(key)
 print(df2['nivel_educativo'])
+
+
+
