@@ -1,57 +1,44 @@
-
-import pandas as pd
-import matplotlib.pyplot as plt1
-import matplotlib.pyplot as plt2
-
-df1=pd.read_csv('dataset_viajes_sube.csv')
-x_values_tipo_transporte = df1['TIPO_TRANSPORTE'].unique()
-y_values_tipo_transporte = df1['TIPO_TRANSPORTE'].value_counts().tolist()
-y_values_tipo_transporte.reverse()
-
-x_values_dia = df1['DIA'].unique()
-y_values_dia = df1['DIA'].value_counts().tolist()
-y_values_dia.reverse()
-
-#grafico1
-plt1.bar(x_values_tipo_transporte,y_values_tipo_transporte)
-plt1.title('TRANSPORTE')
-plt1.xlabel('x')
-plt1.ylabel('y')
-plt1.show()
-
-#grafico2
-plt2.bar(x_values_dia,y_values_dia)
-plt2.title('HORARIO')
-plt2.xlabel('x')
-plt2.ylabel('y')
-plt2.show()
-
-
 #%%
 
 import pandas as pd
 import matplotlib.pyplot as plt1
 import matplotlib.pyplot as plt2
 
-df1=pd.read_csv('tip_viol_pare_annio__g_edad__t_viol_obs_limpio.csv')
-x_values_tipo_violencia = df1['tipo_violencia'].unique()
-y_values_tipo_violencia = df1['tipo_violencia'].value_counts().tolist()
-y_values_tipo_violencia.reverse()
+df1=pd.read_csv('beneficiarios_primera_casa_BA-2018.csv')
 
-x_values_grupo_edad = df1['grupo_edad'].unique()
-y_values_porc_mujeres = df1['porc_mujeres'].value_counts().tolist()
-y_values_porc_mujeres.reverse()
+x_values_edad = df1['edad'].unique()
+y_values_edad = df1['edad'].value_counts().tolist()
+y_values_edad.reverse()
 
 #grafico1
-plt1.bar(x_values_tipo_violencia,y_values_tipo_violencia)
-plt1.title('CUANTAS VECES SE USO C/ VIOLENCIA')
-plt1.xlabel('VIOLENCIA')
-plt1.ylabel('USOS')
+plt1.bar(x_values_edad,y_values_edad)
+plt1.title('CUANTAS EDADES HAY DE CADA UNA')
+plt1.xlabel('PERSONAS DE DIFERENTES EDADES')
+plt1.ylabel('CANTIDAD DE CADA EDAD')
 plt1.show()
 
+#____________________________________________________________________________
+x_values_alquila = df1['alquila'].unique()
+y_values_alquila = df1['alquila'].value_counts().tolist()
+y_values_alquila.reverse()
+
 #grafico2
-plt2.bar(x_values_grupo_edad,y_values_porc_mujeres)
-plt2.title('PORCENTAJE DE VIOLENCIA POR EDAD')
-plt2.xlabel('')
-plt2.ylabel('% DE VIOLENCIA')
+plt2.bar(x_values_alquila,y_values_alquila)
+plt2.title('CUANTAS PERSONAS ALQUILAN')
+plt2.xlabel('ALQUILA')
+plt2.ylabel('CANTIDAD QUE ALQUILA')
 plt2.show()
+
+'''
+1-  ¿Qué conclusión o conclusiones se atrevería a sacar del gráfico obtenido?
+2-  ¿Cuáles serían las variables que considera que deberían tenerse en
+    cuenta pero no las puede apreciar porque el csv no se las provee?
+    ¿Porqué?
+3-  ¿Podría relacionar los datos de las dos columnas elegidas para especular
+    y proponer una conclusión?
+    En caso de que no, ¿Con qué columnas cree que lo podría hacer? ¿Porqué?
+
+1-Se le pregunto a una gran variedad de personas de distintas edades y la mayoria alquila
+2-Ninguna, ya que este csv esta completo con respecto a los datos que te provee
+3-Si (Sacar un promedio de las personas q alquilan segun la edad)
+'''
