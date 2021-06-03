@@ -1,4 +1,3 @@
-#%%
 
 import pandas as pd
 #1
@@ -18,7 +17,8 @@ df.to_csv("nuevo.csv")
 #6
 #df1 = dfSinVacios
 df.iloc[0:299]
-df.iloc[198:398]
+df.iloc[len(df)-200:len(df)-1]
+#df.iloc[198:398]
 '''index1 = len(dfSinVacios) - 301
 index2 = len(dfSinVacios) - 1
 
@@ -40,6 +40,8 @@ df2.loc[[1,5,12,36]]
 print(list(df2.columns))
 #10 indexer = self.columns.get_loc(key)
 print(df2['nivel_educativo'])
+
+
 
 
 
