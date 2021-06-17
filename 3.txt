@@ -1,0 +1,31 @@
+#%%
+
+import pandas as pd
+import matplotlib.pyplot as plt1
+import matplotlib.pyplot as plt2
+
+df1=pd.read_csv('como_hacer_una_chocolatada.csv')
+
+x_values_azucar = df1['Chocolatada con o sin azúcar'].unique()
+y_values_azucar = df1['Chocolatada con o sin azúcar'].value_counts().tolist()
+y_values_azucar.reverse()
+
+#grafico1
+plt1.bar(x_values_azucar,y_values_azucar)
+plt1.title('CUANTAS PERSONAS TOMAN LA CHOCOLATADA CON O SIN AZUCAR')
+plt1.xlabel('OPCIONES')
+plt1.ylabel('PERSONAS QUE VOTARON')
+plt1.show()
+
+#____________________________________________________________________________
+x_values_leche = df1['Primero la leche y dsp el nesquik o viceversa '].unique()
+y_values_leche = df1['Primero la leche y dsp el nesquik o viceversa '].value_counts().tolist()
+y_values_leche.reverse()
+
+#grafico2
+plt2.bar(x_values_leche,y_values_leche)
+plt2.title('CUANTAS PERSONAS PONEN PRIMERO O DESPUES LA LECHE EN LA CHOCOLATADA')
+plt2.xlabel('OPCIONES')
+plt2.ylabel('PERSONAS QUE VOTARON')
+plt2.show()
+
