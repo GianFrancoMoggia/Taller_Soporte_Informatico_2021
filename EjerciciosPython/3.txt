@@ -1,3 +1,6 @@
+https://colab.research.google.com/drive/1YjJNC2BIlLbobAjcnj1orW7Wke_AOKH3?usp=sharing
+
+
 #%% md
 # Introducción
 Mi trabajo consiste en como preparar una chocolatada, debido a que en internet existe una discucion constante de como preparar dicha bebida. Por ende decidi hacer mi trabajo relacionado con esto y asi saber que opinan las personas que me rodean (osea a las que les pregunte).
