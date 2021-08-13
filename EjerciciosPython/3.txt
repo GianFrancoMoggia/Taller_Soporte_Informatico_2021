@@ -11,33 +11,17 @@ ___
 
 Decidi preguntar, en el formulario, 2 preguntas claves para saber que hace la gente a la hora de preparar una chocolatada, la primera es si le ponen azucar o no. Y la segunda es, si primero le ponen la leche y despues el chocolate (o cacao) o visceversa.
 
-### grafico 1
-plt1.bar(x_values_azucar,y_values_azucar)
-plt1.title('CUANTAS PERSONAS TOMAN LA CHOCOLATADA CON O SIN AZUCAR')
-plt1.xlabel('OPCIONES')
-plt1.ylabel('PERSONAS QUE VOTARON')
-plt1.show()
-
-### grafico 2
-plt2.bar(x_values_leche,y_values_leche)
-plt2.title('CUANTAS PERSONAS PONEN PRIMERO O DESPUES LA LECHE EN LA CHOCOLATADA')
-plt2.xlabel('OPCIONES')
-plt2.ylabel('PERSONAS QUE VOTARON')
-plt2.show()
-
-###### Con el primer grafico se puede observar que las personas prefieren tomar la chocolata sin azucar y con el segundo grafico que prefieren poner primero el cacao y despues la leche.
 ___
-# Conclusión
-###### El objetivo de esta encuesta es ver el nivel de psicosis de las personas.
-##### De 27 personas que votaron, 7 van a tener diabetes antes de los 30 y otras 6 hay que llevarlas rapido aun psiquiatra. Pero peor aun, hay 1 persona (de las 27 q votaron) q prefiere poner primero la leche, dsp el nesquik y ademas ponerle azucar, yo ya no se q hacer, lo dejo a su criterio, el destino de esta persona...
+# Conclusion
 
+Con el primer grafico se puede observar que las personas prefieren tomar la chocolata sin azucar y con el segundo grafico que prefieren poner primero el cacao y despues la leche.
 #%%
 
 import pandas as pd
 import matplotlib.pyplot as plt1
 import matplotlib.pyplot as plt2
 
-df1=pd.read_csv('../como_hacer_una_chocolatada.csv')
+df1=pd.read_csv('como_hacer_una_chocolatada.csv')
 
 y_values_azucar = df1['Chocolatada con o sin azúcar'].value_counts()
 x_values_azucar= y_values_azucar.keys()
@@ -61,14 +45,3 @@ plt2.title('CUANTAS PERSONAS PONEN PRIMERO O DESPUES LA LECHE EN LA CHOCOLATADA'
 plt2.xlabel('OPCIONES')
 plt2.ylabel('PERSONAS QUE VOTARON')
 plt2.show()
-
-
-
-'''
-El objetivo de esta encuesta es ver el nivel de psicosis de las personas.
-De 27 personas que votaron, 7 van a tener diabetes antes de los 30 y
-otras 6 hay que llevarlas rapido aun psiquiatra.
-Pero peor aun, hay 1 persona de las 27 q votaron, q prefiere poner
-primero la leche, dsp el nesquik y ademas ponerle azucar, yo ya no se q hacer,
-lo dejo a su criterio, el destino de esta persona...
-'''
