@@ -1,0 +1,80 @@
+#%%
+
+import pandas as pd
+import matplotlib.pyplot as plt1
+import matplotlib.pyplot as plt2
+import matplotlib.pyplot as plt3
+import matplotlib.pyplot as plt4
+import matplotlib.pyplot as plt5
+
+df1=pd.read_csv('dataset_total_vacunas.csv')
+
+yValuesDia = df1['FECHA_ADMINISTRACION'].value_counts()
+xValuesDia = yValuesDia.keys()
+yValuesDia = yValuesDia.values
+
+#grafico1
+plt1.bar(xValuesDia,yValuesDia)
+plt1.title('¿QUE DIA TE DISTE LA VACUNA?')
+plt1.xlabel('OPCIONES')
+plt1.ylabel('PERSONAS QUE RESPONDIERON')
+plt1.show()
+
+#-----------------------------------------------------------------------------
+
+yValuesEdad = df1['GRUPO_ETARIO'].value_counts()
+xValuesEdad = yValuesEdad.keys()
+yValuesEdad = yValuesEdad.values
+
+#grafico2
+plt1.bar(xValuesEdad,yValuesEdad)
+plt1.title('¿A QUE GRUPO ETARIO PERTENECES?')
+plt1.xlabel('OPCIONES')
+plt1.ylabel('PERSONAS QUE RESPONDIERON')
+plt1.show()
+
+#-----------------------------------------------------------------------------
+
+yValuesSexo = df1['GENERO'].value_counts()
+xValuesSexo = yValuesSexo.keys()
+yValuesSexo = yValuesSexo.values
+
+#grafico3
+plt1.bar(xValuesSexo,yValuesSexo)
+plt1.title('¿QUE SEXO SOS?')
+plt1.xlabel('OPCIONES')
+plt1.ylabel('CPERSONAS QUE RESPONDIERON')
+plt1.show()
+
+#-----------------------------------------------------------------------------
+
+yValuesVacuna = df1['VACUNA'].value_counts()
+xValuesVacuna = yValuesVacuna.keys()
+yValuesVacuna = yValuesVacuna.values
+
+#grafico4
+plt1.bar(xValuesVacuna,yValuesVacuna)
+plt1.title('¿QUE VACUNA TE PUSIERON?')
+plt1.xlabel('OPCIONES')
+plt1.ylabel('PERSONAS QUE RESPONDIERON')
+plt1.show()
+
+#-----------------------------------------------------------------------------
+
+yValuesTipo = df1['TIPO_EFECTOR'].value_counts()
+xValuesTipo = yValuesTipo.keys()
+yValuesTipo = yValuesTipo.values
+
+#grafico5
+plt1.bar(xValuesTipo,yValuesTipo)
+plt1.title('¿COMO ERA EL LUGAR QUE TE VACUNARON?')
+plt1.xlabel('OPCIONES')
+plt1.ylabel('PERSONAS QUE RESPONDIERON')
+plt1.show()
+
+#¿Cuando te vacunaron?
+#¿Que edad tenias cuando te diste la vacuna?
+#¿Que genero sos?
+#¿Que vacuna te diste?
+#¿De que tipo era el lugar que te diste la vacuna?
+
