@@ -14,7 +14,7 @@ xValuesDia = yValuesDia.keys()
 yValuesDia = yValuesDia.values
 
 #grafico1
-plt1.bar(xValuesDia,yValuesDia)
+plt1.plot(xValuesDia,yValuesDia,marker='o')
 plt1.title('¿QUE DIA TE DISTE LA VACUNA?')
 plt1.xlabel('OPCIONES')
 plt1.ylabel('PERSONAS QUE RESPONDIERON')
@@ -28,7 +28,7 @@ xValuesEdad = yValuesEdad.keys()
 yValuesEdad = yValuesEdad.values
 
 #grafico2
-plt2.bar(xValuesEdad,yValuesEdad)
+plt2.plot(xValuesEdad,yValuesEdad)
 plt2.title('¿A QUE GRUPO ETARIO PERTENECES?')
 plt2.xlabel('OPCIONES')
 plt2.ylabel('PERSONAS QUE RESPONDIERON')
@@ -43,7 +43,7 @@ yValuesSexo = yValuesSexo.values
 
 #grafico3
 plt3.bar(xValuesSexo,yValuesSexo)
-plt3.title('¿QUE SEXO SOS?')
+plt3.title('¿QUE GENERO SOS?')
 plt3.xlabel('OPCIONES')
 plt3.ylabel('PERSONAS QUE RESPONDIERON')
 plt3.xticks(rotation=90)
@@ -82,3 +82,4 @@ plt5.show()
 #¿Que genero sos?
 #¿Que vacuna te diste?
 #¿De que tipo era el lugar que te diste la vacuna?
+
