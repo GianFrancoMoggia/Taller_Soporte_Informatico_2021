@@ -18,6 +18,7 @@ plt1.bar(xValuesDia,yValuesDia)
 plt1.title('¿QUE DIA TE DISTE LA VACUNA?')
 plt1.xlabel('OPCIONES')
 plt1.ylabel('PERSONAS QUE RESPONDIERON')
+plt1.xticks(rotation=90)
 plt1.show()
 
 #-----------------------------------------------------------------------------
@@ -31,6 +32,7 @@ plt2.bar(xValuesEdad,yValuesEdad)
 plt2.title('¿A QUE GRUPO ETARIO PERTENECES?')
 plt2.xlabel('OPCIONES')
 plt2.ylabel('PERSONAS QUE RESPONDIERON')
+plt2.xticks(rotation=90)
 plt2.show()
 
 #-----------------------------------------------------------------------------
@@ -43,7 +45,8 @@ yValuesSexo = yValuesSexo.values
 plt3.bar(xValuesSexo,yValuesSexo)
 plt3.title('¿QUE SEXO SOS?')
 plt3.xlabel('OPCIONES')
-plt3.ylabel('CPERSONAS QUE RESPONDIERON')
+plt3.ylabel('PERSONAS QUE RESPONDIERON')
+plt3.xticks(rotation=90)
 plt3.show()
 
 #-----------------------------------------------------------------------------
@@ -57,6 +60,7 @@ plt4.bar(xValuesVacuna,yValuesVacuna)
 plt4.title('¿QUE VACUNA TE PUSIERON?')
 plt4.xlabel('OPCIONES')
 plt4.ylabel('PERSONAS QUE RESPONDIERON')
+plt4.xticks(rotation=90)
 plt4.show()
 
 #-----------------------------------------------------------------------------
@@ -70,6 +74,7 @@ plt5.bar(xValuesTipo,yValuesTipo)
 plt5.title('¿COMO ERA EL LUGAR QUE TE VACUNARON?')
 plt5.xlabel('OPCIONES')
 plt5.ylabel('PERSONAS QUE RESPONDIERON')
+plt5.xticks(rotation=90)
 plt5.show()
 
 #¿Cuando te vacunaron?
@@ -77,4 +82,3 @@ plt5.show()
 #¿Que genero sos?
 #¿Que vacuna te diste?
 #¿De que tipo era el lugar que te diste la vacuna?
-
