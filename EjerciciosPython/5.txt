@@ -1,3 +1,23 @@
+#%% md
+
+# Vacunación por el Covid-19 en Argentina
+___
+### Preguntas:
+
+* ¿Cual fue el mes donde vacunaron mas civiles?
+###### Abril fue el mes donde mas dosis se le aplicaron a los civiles, mientras que Enero fue donde se dieron menos dosis.
+* ¿Cual fue el rango de edad mas vacunado hasta la fecha?
+###### Las personas de 51 a 60 años fueron las personas mas vacunas hasta la fecha
+* ¿A que genero se le administraron mas dosis?
+###### Las mujeres fueron mas vacunadas a comparacion de los hombres.
+* ¿Que vacuna fue la mas aplicada?
+###### Como podemos observar la vacuna Sputnik fue la mas usada con un 47,4%, mientras la menos utilizada fue la moderna con un 2,2%.
+* ¿Que lugar, donde se aplicaron las vacunas, fue el mas utilizado?
+###### De los 3 tipos de lugares que hay, para vacunar a las personas, los lugares publicos fueron los que mas se usaron.
+___
+
+### Conclusion
+La conclusion que podemos obtener en base a las preguntas y las respuestas obtenidas son que las personas entre las edades de 51 a 60 años fueron las mas vacundas ya que esto se debera a que son de factor de riesgo. El mes donde mas dosis se aplicaron en las personas fue Enero (en lugares publicos), luego tenemos que priorizaron mas la vacunacion en las mujeres que en los hombres y que las vacunas mas utilizadas fueron las de Sputnik.
 #%%
 
 import numpy as np
@@ -10,16 +30,36 @@ import matplotlib.pyplot as plt5
 
 df1=pd.read_csv('dataset_total_vacunas.csv')
 
+def cambiarFechaAMes(valor):
+    valor = str(valor)
+    if valor.__contains__("APR"):
+        return "APR"
+    if valor.__contains__("AUG"):
+        return "AUG"
+    if valor.__contains__("FEB"):
+        return "FEB"
+    if valor.__contains__("JUL"):
+        return "JUL"
+    if valor.__contains__("JUN"):
+        return "JUN"
+    if valor.__contains__("MAR"):
+        return "MAR"
+    if valor.__contains__("MAY"):
+        return "MAY"
+    if valor.__contains__("JAN"):
+        return "JAN"
+
+df1['FECHA_ADMINISTRACION'] = df1['FECHA_ADMINISTRACION'].apply(cambiarFechaAMes)
+
 yValuesDia = df1['FECHA_ADMINISTRACION'].value_counts()
 xValuesDia = yValuesDia.keys()
 yValuesDia = yValuesDia.values
 
 #grafico1
 plt1.plot(xValuesDia,yValuesDia,marker='o')
-plt1.title('¿QUE DIA TE DISTE LA VACUNA?')
+plt1.title('MESES DEL 2021')
 '''plt1.xlabel('OPCIONES')
 plt1.ylabel('PERSONAS QUE RESPONDIERON')'''
-plt1.xticks(rotation=90)
 plt1.show()
 
 #-----------------------------------------------------------------------------
@@ -32,7 +72,7 @@ yValuesEdad = yValuesEdad.values
 #grafico2
 plt2.barh(posicion_y, yValuesEdad, align = "center")
 plt2.yticks(posicion_y, xValuesEdad)
-plt2.title('¿A QUE GRUPO ETARIO PERTENECES?')
+plt2.title('GRUPOS ETARIOS')
 plt2.show()
 
 #-----------------------------------------------------------------------------
@@ -43,7 +83,7 @@ yValuesSexo = yValuesSexo.values
 
 #grafico3
 plt3.bar(xValuesSexo,yValuesSexo)
-plt3.title('¿QUE GENERO SOS?')
+plt3.title('GENEROS')
 plt3.show()
 
 #-----------------------------------------------------------------------------
@@ -54,7 +94,7 @@ yValuesVacuna = yValuesVacuna.values
 
 #grafico4
 plt4.pie(yValuesVacuna, labels=xValuesVacuna, autopct="%0.1f %%")
-plt4.title('¿QUE VACUNA TE PUSIERON?')
+plt4.title('VACUNAS')
 plt4.axis("equal")
 plt4.show()
 
@@ -66,12 +106,5 @@ yValuesTipo = yValuesTipo.values
 
 #grafico5
 plt5.bar(xValuesTipo,yValuesTipo)
-plt5.title('¿COMO ERA EL LUGAR QUE TE VACUNARON?')
+plt5.title('LUGARES')
 plt5.show()
-
-#¿Cuando te vacunaron?
-#¿Que edad tenias cuando te diste la vacuna?
-#¿Que genero sos?
-#¿Que vacuna te diste?
-#¿De que tipo era el lugar que te diste la vacuna?
-
