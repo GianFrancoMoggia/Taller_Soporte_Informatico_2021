@@ -1,0 +1,399 @@
+﻿genero;nivel_educativo;edad;ingreso_conjunto;smvm;alquila;condicion_laboral_primaria;condicion_laboral_secundaria;localidad;comuna;barrio;partido
+MASCULINO;Con universitario completo;40;27000;7560;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;15;AGRONOMIA;NAN
+MASCULINO;Con universitario completo;39;31000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;ALMAGRO;NAN
+FEMENINO;Con universitario completo;29;22493;8060;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;ALMAGRO;NAN
+MASCULINO;Con universitario completo;32;59500;8860;SI;Relación de dependencia planta permanente;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;ALMAGRO;NAN
+FEMENINO;Con universitario completo;37;26000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;ALMAGRO;NAN
+MASCULINO;Con universitario incompleto;41;29000;7560;SI;Monotributista;;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;ALMAGRO;NAN
+MASCULINO;Con universitario completo;35;48000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;ALMAGRO;NAN
+FEMENINO;Con universitario completo;30;39642;8860;SI;Relación de dependencia planta permanente;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;ALMAGRO;NAN
+FEMENINO;Con universitario completo;42;42000;8060;SI;Relación de dependencia planta permanente;Relación de dependencia planta permanente;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;ALMAGRO;NAN
+MASCULINO;Con secundaria completa;24;49900;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;ALMAGRO;NAN
+FEMENINO;Con universitario completo;41;38278;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;ALMAGRO;NAN
+MASCULINO;Con universitario completo;32;49100;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;ALMAGRO;NAN
+FEMENINO;Con universitario incompleto;34;18889;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;ALMAGRO;NAN
+FEMENINO;Con universitario completo;34;32500;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;ALMAGRO;NAN
+MASCULINO;Con universitario completo;37;35000;8860;SI;Relación de dependencia planta permanente;Relación de dependencia contratado;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;ALMAGRO;NAN
+MASCULINO;Con secundaria incompleta;42;23947;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;ALMAGRO;NAN
+FEMENINO;Con secundaria incompleta;35;37000;8860;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;ALMAGRO;NAN
+FEMENINO;Con universitario completo;34;20000;7560;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;BALVANERA;NAN
+FEMENINO;Con secundaria completa;25;31000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;BALVANERA;NAN
+FEMENINO;Con universitario incompleto;28;38000;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;BALVANERA;NAN
+FEMENINO;Con universitario completo;44;23100;8060;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;BALVANERA;NAN
+MASCULINO;Con universitario completo;31;42000;8860;NO;Relación de dependencia contratado;;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;BALVANERA;NAN
+MASCULINO;Con universitario incompleto;30;21597;8860;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;BALVANERA;NAN
+FEMENINO;Con secundaria completa;35;45000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;BALVANERA;NAN
+MASCULINO;Con secundaria completa;23;19120;9500;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;BALVANERA;NAN
+MASCULINO;Con universitario incompleto;32;38601;9500;SI;Relación de dependencia contratado;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;BALVANERA;NAN
+MASCULINO;Con universitario incompleto;31;62000;9500;SI;Relación de dependencia planta permanente;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;BALVANERA;NAN
+FEMENINO;Con universitario completo;33;39777;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;BALVANERA;NAN
+MASCULINO;Con secundaria completa;43;40000;9500;SI;Autónomo;Autónomo;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;BALVANERA;NAN
+MASCULINO;Con universitario incompleto;28;25881;8060;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;BARRACAS;NAN
+MASCULINO;Con universitario completo;32;43000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;13;BELGRANO;NAN
+FEMENINO;Con universitario completo;30;29000;8060;SI;Relación de dependencia planta permanente;Relación de dependencia planta permanente;CIUDAD AUTÓNOMA DE BUENOS AIRES;13;BELGRANO;NAN
+FEMENINO;Con universitario incompleto;37;25900;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;13;BELGRANO;NAN
+MASCULINO;Con universitario incompleto;33;39500;8060;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;13;BELGRANO;NAN
+MASCULINO;Con secundaria completa;36;30000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;13;BELGRANO;NAN
+MASCULINO;Con universitario completo;30;38000;8060;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;13;BELGRANO;NAN
+MASCULINO;Con secundaria completa;36;30000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;13;BELGRANO;NAN
+MASCULINO;Con universitario completo;38;36142;8860;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;13;BELGRANO;NAN
+FEMENINO;Con universitario completo;32;41000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;13;BELGRANO;NAN
+FEMENINO;Con secundaria incompleta;51;34000;8060;NO;Monotributista;;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;BOCA;NAN
+MASCULINO;Con secundaria completa;32;52000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;BOCA;NAN
+FEMENINO;Con universitario incompleto;28;22700;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;BOCA;NAN
+FEMENINO;Con universitario incompleto;28;26000;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;BOCA;NAN
+FEMENINO;Con universitario incompleto;24;26208;9500;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;BOCA;NAN
+FEMENINO;Con secundaria incompleta;29;24080;7560;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;BOEDO;NAN
+FEMENINO;Con universitario incompleto;42;56000;8060;SI;Relación de dependencia planta permanente;Relación de dependencia contratado;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;BOEDO;NAN
+FEMENINO;Con secundaria completa;40;32185;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;BOEDO;NAN
+FEMENINO;Con posgrado o máster incompleto;38;35000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;BOEDO;NAN
+FEMENINO;Con universitario completo;32;20354;6060;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;BOEDO;NAN
+MASCULINO;Con universitario incompleto;42;50000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;BOEDO;NAN
+MASCULINO;Con universitario completo;29;18000;8860;SI;Relación de dependencia transitorio;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;BOEDO;NAN
+MASCULINO;Con secundaria completa;29;41600;10000;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;5;BOEDO;NAN
+FEMENINO;Con universitario incompleto;33;18366;8060;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+FEMENINO;Con universitario completo;32;33000;8060;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+FEMENINO;Con universitario incompleto;36;33457;8060;SI;Relación de dependencia transitorio;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+MASCULINO;Con posgrado o máster completo;30;38000;8060;SI;Relación de dependencia planta permanente;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+MASCULINO;Con secundaria completa;30;23000;8860;NO;Autónomo;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+FEMENINO;Con universitario completo;32;48000;8060;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+FEMENINO;Con posgrado o máster completo;34;31000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+FEMENINO;Con posgrado o máster incompleto;33;52000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+FEMENINO;Con posgrado o máster incompleto;30;25000;8860;SI;Relación de dependencia contratado;;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+MASCULINO;Con universitario incompleto;42;34500;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+FEMENINO;Con universitario completo;34;39000;8860;SI;Relación de dependencia planta permanente;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+MASCULINO;Con universitario incompleto;36;35000;8860;SI;Relación de dependencia contratado;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+MASCULINO;Con secundaria completa;33;33000;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+MASCULINO;Con universitario incompleto;33;50000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+FEMENINO;Con posgrado o máster completo;24;30000;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+FEMENINO;Con secundaria completa;48;31000;6810;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+MASCULINO;Con universitario incompleto;38;43000;8860;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+FEMENINO;Con universitario completo;50;46800;8860;SI;Relación de dependencia planta permanente;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+FEMENINO;Con universitario incompleto;27;35000;8860;SI;Relación de dependencia contratado;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+MASCULINO;Con primaria completa;38;30000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+FEMENINO;Con secundaria completa;52;29915;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+FEMENINO;Con universitario incompleto;31;22000;9500;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+FEMENINO;Con secundaria completa;31;52000;9500;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+MASCULINO;Con universitario incompleto;23;30000;9500;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+MASCULINO;Con universitario incompleto;36;42000;9500;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;6;CABALLITO;NAN
+FEMENINO;Con posgrado o máster completo;50;42000;9500;SI;Monotributista;;CIUDAD AUTÓNOMA DE BUENOS AIRES;15;CHACARITA;NAN
+FEMENINO;Con universitario incompleto;32;32000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;COGHLAN;NAN
+MASCULINO;Con universitario completo;32;28000;8860;NO;Relación de dependencia contratado;;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;COGHLAN;NAN
+FEMENINO;Con universitario completo;40;29000;7560;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;13;COLEGIALES;NAN
+FEMENINO;Con universitario incompleto;39;28000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;13;COLEGIALES;NAN
+FEMENINO;Con universitario incompleto;28;60960;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;13;COLEGIALES;NAN
+FEMENINO;Con universitario completo;33;37740;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;13;COLEGIALES;NAN
+FEMENINO;Con universitario incompleto;36;28000;8860;NO;Monotributista;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;CONSTITUCION;NAN
+MASCULINO;Con secundaria completa;30;26095;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;CONSTITUCION;NAN
+MASCULINO;Con universitario completo;38;52000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;7;FLORES;NAN
+MASCULINO;Con posgrado o máster incompleto;31;29700;8860;SI;Relación de dependencia contratado;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;7;FLORES;NAN
+FEMENINO;Con universitario completo;41;45000;8860;SI;Monotributista;;CIUDAD AUTÓNOMA DE BUENOS AIRES;7;FLORES;NAN
+FEMENINO;Con universitario incompleto;31;37000;8060;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;7;FLORES;NAN
+FEMENINO;Con universitario completo;40;18000;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;7;FLORES;NAN
+FEMENINO;Con universitario completo;43;23000;8060;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;7;FLORES;NAN
+MASCULINO;Con universitario completo;33;43000;8860;SI;Relación de dependencia planta permanente;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;7;FLORES;NAN
+FEMENINO;Con universitario completo;42;35000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;7;FLORES;NAN
+MASCULINO;Con secundaria completa;34;35000;9500;SI;Monotributista;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;7;FLORES;NAN
+MASCULINO;Con universitario completo;30;25518;9500;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;7;FLORES;NAN
+FEMENINO;Con secundaria incompleta;41;48000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;7;FLORES;NAN
+MASCULINO;Con universitario completo;39;20000;9500;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;7;FLORES;NAN
+FEMENINO;Con universitario completo;30;27000;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;10;FLORESTA;NAN
+MASCULINO;Con universitario incompleto;29;40420;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;10;FLORESTA;NAN
+MASCULINO;Con universitario completo;37;31500;8060;SI;Relación de dependencia transitorio;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;10;FLORESTA;NAN
+FEMENINO;Con universitario incompleto;28;50000;9500;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;10;FLORESTA;NAN
+MASCULINO;Con universitario completo;38;27400;8060;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;10;FLORESTA;NAN
+FEMENINO;Con secundaria completa;27;32635;7560;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;LINIERS;NAN
+MASCULINO;Con universitario incompleto;30;23000;7560;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;LINIERS;NAN
+FEMENINO;Con universitario incompleto;37;18000;8060;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;LINIERS;NAN
+MASCULINO;Con secundaria completa;30;41029;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;LINIERS;NAN
+FEMENINO;Con universitario incompleto;29;14750;6060;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;LINIERS;NAN
+MASCULINO;Con secundaria completa;38;32000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;LINIERS;NAN
+FEMENINO;Con posgrado o máster completo;45;25000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;LINIERS;NAN
+MASCULINO;Con universitario completo;38;43000;9500;NO;Relación de dependencia planta permanente;Relación de dependencia planta permanente;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;LINIERS;NAN
+MASCULINO;Con universitario completo;38;26501;7560;NO;Autónomo;Relación de dependencia transitorio;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;MATADEROS;NAN
+MASCULINO;Con universitario incompleto;31;42087;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;MATADEROS;NAN
+MASCULINO;Con secundaria completa;27;38000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;MATADEROS;NAN
+MASCULINO;Con secundaria completa;35;25000;8860;NO;Relación de dependencia transitorio;;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;MATADEROS;NAN
+FEMENINO;Con universitario completo;28;24500;8860;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;MATADEROS;NAN
+MASCULINO;Con secundaria completa;26;44000;9500;NO;Relación de dependencia planta permanente;Relación de dependencia planta permanente;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;MATADEROS;NAN
+FEMENINO;Con universitario incompleto;35;28200;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;MATADEROS;NAN
+MASCULINO;Con universitario completo;29;34498;8860;SI;Relación de dependencia planta permanente;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;MATADEROS;NAN
+MASCULINO;Con posgrado o máster incompleto;37;33384;8860;NO;Relación de dependencia planta permanente;Relación de dependencia transitorio;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;MATADEROS;NAN
+MASCULINO;Con universitario incompleto;26;51000;8860;NO;Monotributista;;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;MATADEROS;NAN
+MASCULINO;Con universitario incompleto;24;23000;8060;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;MONSERRAT;NAN
+MASCULINO;Con universitario completo;31;39000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;MONSERRAT;NAN
+FEMENINO;Con universitario completo;34;18000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;MONSERRAT;NAN
+MASCULINO;Con secundaria incompleta;49;30000;9500;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;MONSERRAT;NAN
+FEMENINO;Con universitario incompleto;36;25000;8060;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;10;MONTE CASTRO;NAN
+FEMENINO;Con secundaria completa;43;39039;8860;NO;Relación de dependencia planta permanente;Relación de dependencia planta permanente;CIUDAD AUTÓNOMA DE BUENOS AIRES;10;MONTE CASTRO;NAN
+MASCULINO;Con universitario incompleto;35;33000;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;10;MONTE CASTRO;NAN
+FEMENINO;Con universitario incompleto;26;19000;8060;NO;Relación de dependencia planta permanente;;LA MATANZA;;NAN;LA MATANZA
+MASCULINO;Con universitario incompleto;34;24800;8060;NO;Relación de dependencia planta permanente;Ninguna;LANUS;;NAN;LANUS
+FEMENINO;Con universitario completo;41;30292;8060;SI;Relación de dependencia planta permanente;;AVELLANEDA;;NAN;AVELLANEDA
+MASCULINO;Con universitario incompleto;32;30246;8060;SI;Monotributista;Ninguna;ITUZAINGO;;NAN;ITUZAINGO
+FEMENINO;Con universitario completo;34;22000;8060;NO;Relación de dependencia planta permanente;;QUILMES;;NAN;QUILMES
+FEMENINO;Con universitario incompleto;45;26500;6810;NO;Relación de dependencia planta permanente;;AVELLANEDA;;NAN;AVELLANEDA
+FEMENINO;Con posgrado o máster completo;34;20000;8860;NO;Relación de dependencia planta permanente;;LANUS;;NAN;LANUS
+MASCULINO;Con universitario incompleto;34;46000;8860;SI;Monotributista;;LANUS;;NAN;LANUS
+MASCULINO;Con secundaria incompleta;43;27000;8060;NO;Relación de dependencia planta permanente;Ninguna;MORENO;;NAN;MORENO
+FEMENINO;Con universitario completo;32;26580;8860;NO;Relación de dependencia planta permanente;;MERLO;;NAN;MERLO
+FEMENINO;Con secundaria incompleta;42;32000;8060;SI;Autónomo;Ninguna;MATADEROS;;NAN;MATADEROS
+MASCULINO;Con universitario completo;28;26700;8860;NO;Relación de dependencia planta permanente;;LA MATANZA;;NAN;LA MATANZA
+MASCULINO;Con secundaria completa;33;37140;7560;NO;Relación de dependencia planta permanente;;MERLO;;NAN;MERLO
+FEMENINO;Con universitario completo;40;24500;7560;SI;Relación de dependencia planta permanente;Relación de dependencia planta permanente;VICENTE LOPEZ;;NAN;VICENTE LOPEZ
+MASCULINO;Con secundaria completa;34;40000;8060;SI;Relación de dependencia planta permanente;;GENERAL SAN MARTIN;;NAN;GENERAL SAN MARTIN
+MASCULINO;Con universitario completo;27;43500;8060;SI;Relación de dependencia planta permanente;Relación de dependencia planta permanente;BELGRANO;;NAN;BELGRANO
+FEMENINO;Con universitario completo;36;18000;8060;NO;Relación de dependencia planta permanente;;LANUS;;NAN;LANUS
+MASCULINO;Con universitario incompleto;33;34000;8060;SI;Relación de dependencia contratado;Monotributista;LOMAS DE ZAMORA;;NAN;LOMAS DE ZAMORA
+FEMENINO;Con secundaria completa;32;42404;8860;SI;Relación de dependencia planta permanente;Ninguna;AVELLANEDA;;NAN;AVELLANEDA
+MASCULINO;Con universitario incompleto;29;46434;8060;SI;Relación de dependencia planta permanente;;SAN ISIDRO;;NAN;SAN ISIDRO
+MASCULINO;Con universitario incompleto;34;42000;8860;SI;Relación de dependencia planta permanente;;LA MATANZA;;NAN;LA MATANZA
+FEMENINO;Con posgrado o máster incompleto;33;49000;8860;SI;Relación de dependencia planta permanente;;LA MATANZA;;NAN;LA MATANZA
+FEMENINO;Con universitario completo;34;25083;8860;NO;Relación de dependencia contratado;Ninguna;GENERAL SAN MARTIN;;NAN;GENERAL SAN MARTIN
+MASCULINO;Con posgrado o máster incompleto;35;29798;6810;NO;Relación de dependencia transitorio;Ninguna;VICENTE LOPEZ;;NAN;VICENTE LOPEZ
+MASCULINO;Con universitario completo;28;26800;8860;SI;Relación de dependencia planta permanente;Relación de dependencia transitorio;CABA;;NAN;CABA
+FEMENINO;Con universitario completo;27;49300;8860;NO;Relación de dependencia planta permanente;Ninguna;MORON;;NAN;MORON
+FEMENINO;Con secundaria completa;39;32000;7560;SI;Relación de dependencia planta permanente;;AVELLANEDA;;NAN;AVELLANEDA
+MASCULINO;Con universitario incompleto;44;30000;8060;NO;Relación de dependencia planta permanente;;MORENO;;NAN;MORENO
+FEMENINO;Con universitario completo;31;23000;8060;SI;Relación de dependencia planta permanente;Ninguna;LA MATANZA;;NAN;LA MATANZA
+FEMENINO;Con universitario incompleto;41;23000;8860;NO;Relación de dependencia planta permanente;;TRES DE FEBRERO;;NAN;TRES DE FEBRERO
+FEMENINO;Con universitario completo;28;49000;8860;SI;Relación de dependencia planta permanente;;MERLO;;NAN;MERLO
+FEMENINO;Con universitario completo;37;28474;7560;NO;Relación de dependencia planta permanente;;GENERAL SAN MARTIN;;NAN;GENERAL SAN MARTIN
+MASCULINO;Con universitario incompleto;35;22849;8860;NO;Relación de dependencia contratado;Ninguna;GENERAL SARMIENTO;;NAN;GENERAL SARMIENTO
+MASCULINO;Con universitario completo;27;32000;8860;NO;Relación de dependencia planta permanente;;LANUS;;NAN;LANUS
+FEMENINO;Con posgrado o máster incompleto;27;52399;8860;SI;Monotributista;;LOMAS DE ZAMORA;;NAN;LOMAS DE ZAMORA
+MASCULINO;Con universitario incompleto;27;30000;8860;SI;Relación de dependencia contratado;;MORON;;NAN;MORON
+MASCULINO;Con universitario incompleto;26;45000;8860;NO;Relación de dependencia planta permanente;Ninguna;TRES DE FEBRERO;;NAN;TRES DE FEBRERO
+MASCULINO;Con secundaria incompleta;34;40000;8060;NO;Relación de dependencia planta permanente;;VICENTE LOPEZ;;NAN;VICENTE LOPEZ
+MASCULINO;Con universitario incompleto;43;36180;8860;SI;Relación de dependencia planta permanente;;SAN ISIDRO;;NAN;SAN ISIDRO
+FEMENINO;Con universitario completo;34;24500;8860;SI;Relación de dependencia planta permanente;;AVELLANEDA;;NAN;AVELLANEDA
+MASCULINO;Con universitario completo;33;46625;8860;SI;Relación de dependencia planta permanente;Relación de dependencia planta permanente;LANUS;;NAN;LANUS
+MASCULINO;Con universitario completo;31;24000;8860;NO;Relación de dependencia planta permanente;;LANUS;;NAN;LANUS
+MASCULINO;Con universitario incompleto;30;43000;8060;SI;Relación de dependencia planta permanente;;AVELLANEDA;;NAN;AVELLANEDA
+FEMENINO;Con secundaria incompleta;42;19900;8060;SI;Relación de dependencia planta permanente;Relación de dependencia transitorio;FLORES;;NAN;FLORES
+FEMENINO;Con secundaria completa;23;20499;8060;SI;Relación de dependencia contratado;;SAN ISIDRO;;NAN;SAN ISIDRO
+MASCULINO;Con secundaria completa;36;25000;8860;SI;Relación de dependencia planta permanente;;MUÑIZ;;NAN;MUÑIZ
+MASCULINO;Con universitario completo;44;53928;8860;NO;Relación de dependencia planta permanente;Ninguna;LA MATANZA;;NAN;LA MATANZA
+FEMENINO;Con universitario completo;34;25542;8860;SI;Relación de dependencia planta permanente;;LA MATANZA;;NAN;LA MATANZA
+MASCULINO;Con universitario incompleto;31;26500;8860;NO;Relación de dependencia planta permanente;;LANUS;;NAN;LANUS
+FEMENINO;Con universitario completo;40;30000;8860;SI;Relación de dependencia planta permanente;;AVELLANEDA;;NAN;AVELLANEDA
+MASCULINO;Con universitario incompleto;29;30000;8860;NO;Monotributista;Ninguna;MERLO;;NAN;MERLO
+MASCULINO;Con universitario completo;32;15000;4716;SI;Relación de dependencia planta permanente;;REMEDIOS DE ESCALADA;;NAN;REMEDIOS DE ESCALADA
+FEMENINO;Con universitario incompleto;26;25500;8860;NO;Relación de dependencia planta permanente;;BERAZATEGUI;;NAN;BERAZATEGUI
+FEMENINO;Con secundaria completa;33;22000;8060;SI;Relación de dependencia planta permanente;Ninguna;MATANZA;;NAN;MATANZA
+FEMENINO;Con universitario completo;28;26000;8860;NO;Relación de dependencia transitorio;;VICENTE LOPEZ;;NAN;VICENTE LOPEZ
+FEMENINO;Con universitario completo;37;37900;7560;SI;Relación de dependencia planta permanente;Ninguna;ALMIRANTE BROWN;;NAN;ALMIRANTE BROWN
+MASCULINO;Con universitario completo;28;50659;8860;NO;Relación de dependencia planta permanente;Monotributista;ESTEBAN ECHEVERRIA;;NAN;ESTEBAN ECHEVERRIA
+MASCULINO;Con universitario completo;33;23000;8060;SI;Relación de dependencia planta permanente;Monotributista;AVELLANEDA;;NAN;AVELLANEDA
+FEMENINO;Con universitario incompleto;33;31000;8860;NO;Relación de dependencia planta permanente;;BERAZATEGUI;;NAN;BERAZATEGUI
+MASCULINO;Con secundaria completa;36;43000;8060;SI;Relación de dependencia planta permanente;Monotributista;LOMAS DE ZAMORA;;NAN;LOMAS DE ZAMORA
+MASCULINO;Con universitario incompleto;36;19000;8860;NO;Relación de dependencia planta permanente;Ninguna;LANUS;;NAN;LANUS
+MASCULINO;Con universitario completo;27;49000;8860;NO;Relación de dependencia planta permanente;;GENERAL SAN MARTIN;;NAN;GENERAL SAN MARTIN
+MASCULINO;Con universitario completo;31;37000;8060;NO;Relación de dependencia planta permanente;Monotributista;SAN ISIDRO;;NAN;SAN ISIDRO
+MASCULINO;Con universitario completo;35;41000;8860;SI;Monotributista;;AVELLANEDA;;NAN;AVELLANEDA
+MASCULINO;Con secundaria completa;36;54000;8860;NO;Relación de dependencia planta permanente;Ninguna;LA MATANZA;;NAN;LA MATANZA
+MASCULINO;Con universitario completo;38;42000;9500;SI;Relación de dependencia planta permanente;Ninguna;LANUS;;NAN;LANUS
+FEMENINO;Con universitario completo;33;26800;8060;SI;Relación de dependencia planta permanente;;LA MATANZA;;NAN;LA MATANZA
+MASCULINO;Con universitario completo;31;47000;8860;SI;Relación de dependencia planta permanente;Ninguna;AVELLANEDA;;NAN;AVELLANEDA
+MASCULINO;Con secundaria completa;37;33000;8060;SI;Relación de dependencia planta permanente;;LANUS;;NAN;LANUS
+MASCULINO;Con universitario incompleto;26;37000;8860;NO;Relación de dependencia planta permanente;Ninguna;TRES DE FEBRERO;;NAN;TRES DE FEBRERO
+MASCULINO;Con universitario completo;29;44000;8860;SI;Relación de dependencia planta permanente;;AVELLANEDA;;NAN;AVELLANEDA
+FEMENINO;Con secundaria completa;34;31000;6810;NO;Relación de dependencia planta permanente;;LANUS;;NAN;LANUS
+MASCULINO;Con secundaria completa;39;35000;8860;SI;Relación de dependencia planta permanente;;QUILMES;;NAN;QUILMES
+MASCULINO;Con secundaria completa;41;39885;8860;SI;Relación de dependencia planta permanente;;LA MATANZA;;NAN;LA MATANZA
+FEMENINO;Con universitario incompleto;28;30000;8860;NO;Monotributista;;MORON;;NAN;MORON
+FEMENINO;Con universitario completo;40;30000;8860;NO;Relación de dependencia planta permanente;Ninguna;AVELLANEDA;;NAN;AVELLANEDA
+FEMENINO;Con universitario incompleto;34;25200;8860;NO;Relación de dependencia planta permanente;Relación de dependencia planta permanente;LA MATANZA;;NAN;LA MATANZA
+FEMENINO;Con posgrado o máster completo;29;26188;8860;SI;Relación de dependencia planta permanente;;SAN ISIDRO;;NAN;SAN ISIDRO
+FEMENINO;Con secundaria completa;32;60000;8860;NO;Relación de dependencia planta permanente;;VILLA DE MAYO - MALVINAS ARGENTINAS;;NAN;VILLA DE MAYO - MALVINAS ARGENTINAS
+MASCULINO;Con secundaria completa;32;36000;8860;SI;Relación de dependencia planta permanente;Ninguna;QUILMES;;NAN;QUILMES
+FEMENINO;Con secundaria completa;30;42000;8860;SI;Relación de dependencia planta permanente;;MORON;;NAN;MORON
+FEMENINO;Con secundaria completa;30;41000;8860;SI;Relación de dependencia planta permanente;;SAN FERNANDO;;NAN;SAN FERNANDO
+MASCULINO;Con universitario incompleto;27;37000;8860;NO;Relación de dependencia planta permanente;Ninguna;FLORENCIO VARELA;;NAN;FLORENCIO VARELA
+FEMENINO;Con universitario incompleto;34;52628;8860;SI;Relación de dependencia contratado;Ninguna;MORON;;NAN;MORON
+FEMENINO;Con universitario completo;34;49415;9500;SI;Relación de dependencia planta permanente;Relación de dependencia planta permanente;MERLO;;NAN;MERLO
+MASCULINO;Con universitario incompleto;28;49257;9500;SI;Relación de dependencia planta permanente;;TRES DE FEBRERO;;NAN;TRES DE FEBRERO
+FEMENINO;Con universitario completo;30;32000;8860;SI;Relación de dependencia planta permanente;;LA MATANZA;;NAN;LA MATANZA
+FEMENINO;Con secundaria completa;35;30800;8860;SI;Relación de dependencia planta permanente;;LOMAS DE ZAMORA;;NAN;LOMAS DE ZAMORA
+FEMENINO;Con universitario completo;37;18481;8860;NO;Relación de dependencia planta permanente;;GENERAL SARMIENTO;;NAN;GENERAL SARMIENTO
+MASCULINO;Con universitario incompleto;37;33000;8860;NO;Relación de dependencia planta permanente;;SAN ISIDRO;;NAN;SAN ISIDRO
+MASCULINO;Con universitario completo;30;42000;8860;SI;Relación de dependencia planta permanente;;MORON;;NAN;MORON
+MASCULINO;Con secundaria completa;25;27000;9500;NO;Relación de dependencia planta permanente;;LANUS;;NAN;LANUS
+FEMENINO;Con universitario completo;49;38100;8860;SI;Relación de dependencia planta permanente;Monotributista;TIGRE;;NAN;TIGRE
+MASCULINO;Con secundaria completa;34;34092;8860;NO;Relación de dependencia planta permanente;Ninguna;ALMIRANTE BROWN;;NAN;ALMIRANTE BROWN
+MASCULINO;Con universitario incompleto;27;50000;8860;SI;Relación de dependencia planta permanente;Ninguna;GENERAL SAN MARTIN;;NAN;GENERAL SAN MARTIN
+MASCULINO;Con posgrado o máster completo;29;33119;9500;NO;Relación de dependencia planta permanente;Ninguna;ECHEVERRIA;;NAN;ECHEVERRIA
+FEMENINO;Con universitario incompleto;27;40000;8860;SI;Relación de dependencia planta permanente;;GENERAL SAN MARTIN;;NAN;GENERAL SAN MARTIN
+MASCULINO;Con universitario incompleto;30;36000;8060;NO;Relación de dependencia planta permanente;;QUILMES;;NAN;QUILMES
+FEMENINO;Con universitario completo;28;23500;9500;SI;Relación de dependencia planta permanente;Ninguna;LA MATANZA;;NAN;LA MATANZA
+MASCULINO;Con universitario incompleto;33;49000;9500;SI;Monotributista;Ninguna;QUILMES;;NAN;QUILMES
+FEMENINO;Con universitario incompleto;52;62000;8860;NO;Relación de dependencia planta permanente;Ninguna;AVELLANEDA;;NAN;AVELLANEDA
+FEMENINO;Con universitario completo;31;32600;9500;NO;Relación de dependencia planta permanente;Ninguna;VICENTE LOPEZ;;NAN;VICENTE LOPEZ
+MASCULINO;Con secundaria completa;40;45100;8060;SI;Relación de dependencia planta permanente;;QUILMES;;NAN;QUILMES
+MASCULINO;Con universitario completo;27;29000;8860;NO;Relación de dependencia planta permanente;;LA MATANZA;;NAN;LA MATANZA
+FEMENINO;Con secundaria completa;43;31946;7560;SI;Relación de dependencia planta permanente;;LOMAS DE ZAMORA;;NAN;LOMAS DE ZAMORA
+MASCULINO;Con universitario incompleto;31;32791;9500;SI;Relación de dependencia planta permanente;Ninguna;LANUS;;NAN;LANUS
+MASCULINO;Con universitario incompleto;29;32000;8860;NO;Monotributista;;AVELLANEDA;;NAN;AVELLANEDA
+MASCULINO;Con universitario completo;29;42100;9500;NO;Relación de dependencia planta permanente;;GENERAL SAN MARTIN;;NAN;GENERAL SAN MARTIN
+MASCULINO;Con secundaria completa;30;47000;9500;NO;Relación de dependencia planta permanente;Ninguna;3 DE FEBRERO;;NAN;3 DE FEBRERO
+MASCULINO;Con universitario incompleto;29;20000;8860;NO;Relación de dependencia planta permanente;;MORON;;NAN;MORON
+MASCULINO;Con universitario incompleto;36;32570;9500;SI;Relación de dependencia planta permanente;;AVELLANEDA;;NAN;AVELLANEDA
+FEMENINO;Con secundaria completa;36;37403;8860;SI;Relación de dependencia planta permanente;;ALMIRANTE BROWN;;NAN;ALMIRANTE BROWN
+FEMENINO;Con universitario incompleto;26;27000;8860;NO;Relación de dependencia planta permanente;;AVELLANEDA;;NAN;AVELLANEDA
+FEMENINO;Con universitario incompleto;30;20700;9500;SI;Relación de dependencia planta permanente;Relación de dependencia transitorio;AVELLANEDA;;NAN;AVELLANEDA
+MASCULINO;Con secundaria completa;34;39092;9500;SI;Relación de dependencia planta permanente;Ninguna;VICENTE LOPEZ;;NAN;VICENTE LOPEZ
+MASCULINO;Con universitario incompleto;38;37000;8860;SI;Relación de dependencia transitorio;;LA MATANZA;;NAN;LA MATANZA
+FEMENINO;Con posgrado o máster completo;40;42000;9500;SI;Relación de dependencia planta permanente;Ninguna;MORON;;NAN;MORON
+FEMENINO;Con secundaria completa;45;41000;8860;SI;Relación de dependencia planta permanente;;ALMIRANTE BROWN;;NAN;ALMIRANTE BROWN
+FEMENINO;Con universitario incompleto;31;30000;9500;NO;Relación de dependencia planta permanente;Ninguna;LOMAS DE ZAMORA;;NAN;LOMAS DE ZAMORA
+MASCULINO;Con universitario incompleto;30;35000;9500;SI;Relación de dependencia planta permanente;Ninguna;LA MATANZA;;NAN;LA MATANZA
+FEMENINO;Con universitario completo;35;38000;8860;SI;Relación de dependencia planta permanente;;AVELLANEDA;;NAN;AVELLANEDA
+FEMENINO;Con universitario completo;30;31000;8860;SI;Relación de dependencia contratado;Monotributista;AVELLANEDA;;NAN;AVELLANEDA
+FEMENINO;Con universitario incompleto;28;40000;9500;NO;Monotributista;;AVELLANEDA;;NAN;AVELLANEDA
+MASCULINO;Con universitario completo;33;29844;9500;NO;Relación de dependencia planta permanente;Ninguna;LA MATANZA;;NAN;LA MATANZA
+MASCULINO;Con universitario incompleto;37;52800;10000;SI;Relación de dependencia planta permanente;Ninguna;MORON;;NAN;MORON
+FEMENINO;Con universitario incompleto;29;44000;9500;NO;Relación de dependencia planta permanente;;MORON;;NAN;MORON
+FEMENINO;Con secundaria completa;32;49000;8060;NO;Relación de dependencia planta permanente;;MORON;;NAN;MORON
+FEMENINO;Con universitario completo;36;31000;8860;SI;Relación de dependencia planta permanente;;QUILMES;;NAN;QUILMES
+MASCULINO;Con universitario incompleto;33;52500;9500;SI;Relación de dependencia planta permanente;;VILLA DOMINICO;;NAN;VILLA DOMINICO
+FEMENINO;Con universitario incompleto;28;35571;8860;NO;Relación de dependencia planta permanente;;GENERAL SAN MARTIN;;NAN;GENERAL SAN MARTIN
+MASCULINO;Con universitario incompleto;38;35900;8060;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;NUEVA POMPEYA;NAN
+FEMENINO;Con universitario completo;36;30000;8060;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;NUEVA POMPEYA;NAN
+MASCULINO;Con universitario completo;41;44904;8860;SI;Relación de dependencia planta permanente;Relación de dependencia planta permanente;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;NUEVA POMPEYA;NAN
+FEMENINO;Con secundaria completa;26;41000;8860;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;NUEVA POMPEYA;NAN
+MASCULINO;Con universitario incompleto;35;30000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;NUEVA POMPEYA;NAN
+MASCULINO;Con secundaria incompleta;29;28200;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;13;NUÑEZ;NAN
+FEMENINO;Con universitario completo;31;32000;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;13;NUÑEZ;NAN
+FEMENINO;Con universitario completo;30;63000;9500;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;13;NUÑEZ;NAN
+MASCULINO;Con secundaria completa;42;22089;8060;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;14;PALERMO;NAN
+FEMENINO;Con universitario completo;43;47000;8860;SI;Relación de dependencia planta permanente;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;14;PALERMO;NAN
+FEMENINO;Con secundaria completa;50;22000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;14;PALERMO;NAN
+FEMENINO;Con posgrado o máster incompleto;32;34000;8860;NO;Relación de dependencia transitorio;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;14;PALERMO;NAN
+FEMENINO;Con universitario completo;41;51800;8860;NO;Relación de dependencia planta permanente;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;14;PALERMO;NAN
+MASCULINO;Con universitario completo;37;28000;8860;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;14;PALERMO;NAN
+FEMENINO;Con universitario completo;30;39500;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;14;PALERMO;NAN
+MASCULINO;Con universitario incompleto;35;50000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;14;PALERMO;NAN
+FEMENINO;Con universitario completo;25;27671;8860;NO;Relación de dependencia planta permanente;Relación de dependencia planta permanente;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;PARQUE AVELLANEDA;NAN
+FEMENINO;Con secundaria completa;35;38000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;PARQUE AVELLANEDA;NAN
+MASCULINO;Con universitario completo;35;48319;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;PARQUE AVELLANEDA;NAN
+FEMENINO;Con universitario incompleto;29;37000;8860;SI;Relación de dependencia planta permanente;Relación de dependencia planta permanente;CIUDAD AUTÓNOMA DE BUENOS AIRES;9;PARQUE AVELLANEDA;NAN
+MASCULINO;Con universitario incompleto;33;36000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;7;PARQUE CHACABUCO;NAN
+FEMENINO;Con universitario completo;32;32700;8860;SI;Monotributista;Relación de dependencia planta permanente;CIUDAD AUTÓNOMA DE BUENOS AIRES;7;PARQUE CHACABUCO;NAN
+MASCULINO;Con secundaria completa;39;46935;8060;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;7;PARQUE CHACABUCO;NAN
+FEMENINO;Con secundaria completa;32;33000;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;7;PARQUE CHACABUCO;NAN
+MASCULINO;Con universitario incompleto;37;25000;8860;NO;Relación de dependencia planta permanente;Relación de dependencia planta permanente;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;PARQUE PATRICIOS;NAN
+MASCULINO;Con secundaria completa;25;27000;7560;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;PARQUE PATRICIOS;NAN
+FEMENINO;Con posgrado o máster completo;27;28000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;PARQUE PATRICIOS;NAN
+FEMENINO;Con universitario completo;38;40000;8060;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;PARQUE PATRICIOS;NAN
+MASCULINO;Con universitario completo;29;41800;8060;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;PARQUE PATRICIOS;NAN
+FEMENINO;Con universitario incompleto;34;34000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;PARQUE PATRICIOS;NAN
+FEMENINO;Con universitario completo;33;25000;8860;NO;Relación de dependencia transitorio;;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;PARQUE PATRICIOS;NAN
+MASCULINO;Con universitario incompleto;23;29345;9500;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;PARQUE PATRICIOS;NAN
+FEMENINO;Con universitario incompleto;35;28000;8860;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;4;PARQUE PATRICIOS;NAN
+MASCULINO;Con universitario incompleto;32;31100;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;15;PATERNAL;NAN
+FEMENINO;Con posgrado o máster incompleto;30;61000;8860;SI;Relación de dependencia planta permanente;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;2;RECOLETA;NAN
+FEMENINO;Con posgrado o máster completo;44;37954;9500;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;2;RECOLETA;NAN
+MASCULINO;Con universitario completo;38;57868;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;2;RECOLETA;NAN
+FEMENINO;Con universitario incompleto;33;28000;9500;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;2;RECOLETA;NAN
+FEMENINO;Con universitario completo;36;51500;8860;SI;Relación de dependencia planta permanente;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;RETIRO;NAN
+FEMENINO;Con universitario completo;46;61000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;RETIRO;NAN
+MASCULINO;Con universitario incompleto;28;49500;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;RETIRO;NAN
+FEMENINO;Con posgrado o máster incompleto;33;44000;9500;SI;Relación de dependencia contratado;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;RETIRO;NAN
+FEMENINO;Con posgrado o máster completo;49;35000;10000;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;RETIRO;NAN
+MASCULINO;Con universitario completo;37;19000;8060;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;SAAVEDRA;NAN
+MASCULINO;Con universitario completo;45;18278;8060;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;SAAVEDRA;NAN
+MASCULINO;Con universitario incompleto;31;45000;8860;SI;Relación de dependencia transitorio;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;SAAVEDRA;NAN
+FEMENINO;Con universitario incompleto;55;44000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;SAN CRISTOBAL;NAN
+MASCULINO;Con posgrado o máster incompleto;34;32000;8060;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;SAN CRISTOBAL;NAN
+MASCULINO;Con universitario incompleto;32;28000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;SAN CRISTOBAL;NAN
+MASCULINO;Con universitario completo;29;23000;8860;NO;Relación de dependencia transitorio;;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;SAN CRISTOBAL;NAN
+FEMENINO;Con primaria completa;40;31000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;SAN CRISTOBAL;NAN
+FEMENINO;Con secundaria completa;40;42768;8860;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;SAN CRISTOBAL;NAN
+FEMENINO;Con universitario completo;31;28000;8860;SI;Relación de dependencia transitorio;;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;SAN CRISTOBAL;NAN
+FEMENINO;Con secundaria completa;26;49500;9500;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;3;SAN CRISTOBAL;NAN
+MASCULINO;Con universitario incompleto;35;22800;8060;SI;Relación de dependencia transitorio;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;SAN NICOLAS;NAN
+FEMENINO;Con universitario completo;35;28000;8060;SI;Monotributista;;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;SAN NICOLAS;NAN
+FEMENINO;Con posgrado o máster completo;31;50000;8860;SI;Monotributista;;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;SAN NICOLAS;NAN
+MASCULINO;Con universitario incompleto;30;27000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;SAN TELMO;NAN
+FEMENINO;Con universitario incompleto;31;37280;8860;SI;Relación de dependencia planta permanente;Relación de dependencia planta permanente;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;SAN TELMO;NAN
+FEMENINO;Con universitario completo;27;20000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;SAN TELMO;NAN
+MASCULINO;Con posgrado o máster completo;27;30976;9500;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;SAN TELMO;NAN
+MASCULINO;Con universitario incompleto;38;32000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;SAN TELMO;NAN
+MASCULINO;Con universitario completo;35;42300;9500;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;SAN TELMO;NAN
+FEMENINO;Con universitario incompleto;28;21000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;1;SAN TELMO;NAN
+MASCULINO;Con universitario completo;32;25000;8860;SI;Relación de dependencia planta permanente;Relación de dependencia planta permanente;CIUDAD AUTÓNOMA DE BUENOS AIRES;10;VELEZ SARSFIELD;NAN
+MASCULINO;Con secundaria completa;33;31282;8860;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;10;VERSALLES;NAN
+FEMENINO;Con universitario completo;46;43650;8060;SI;Monotributista;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;15;VILLA CRESPO;NAN
+FEMENINO;Con secundaria completa;38;37000;8060;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;15;VILLA CRESPO;NAN
+MASCULINO;Con universitario completo;35;30000;8060;SI;Relación de dependencia contratado;;CIUDAD AUTÓNOMA DE BUENOS AIRES;15;VILLA CRESPO;NAN
+FEMENINO;Con secundaria incompleta;50;30000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;15;VILLA CRESPO;NAN
+MASCULINO;Con universitario completo;28;23000;8060;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;15;VILLA CRESPO;NAN
+MASCULINO;Con universitario incompleto;37;41500;8860;SI;Monotributista;Relación de dependencia contratado;CIUDAD AUTÓNOMA DE BUENOS AIRES;15;VILLA CRESPO;NAN
+MASCULINO;Con universitario completo;36;40000;8060;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;15;VILLA CRESPO;NAN
+FEMENINO;Con universitario completo;34;53000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;15;VILLA CRESPO;NAN
+MASCULINO;Con universitario completo;32;59803;9500;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;15;VILLA CRESPO;NAN
+FEMENINO;Con universitario completo;26;20200;8060;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;15;VILLA CRESPO;NAN
+MASCULINO;Con universitario incompleto;29;30000;8060;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;15;VILLA CRESPO;NAN
+FEMENINO;Con universitario incompleto;33;22000;9500;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;15;VILLA CRESPO;NAN
+MASCULINO;Con universitario incompleto;34;40000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA DEL PARQUE;NAN
+FEMENINO;Con universitario completo;34;48000;8860;SI;Relación de dependencia planta permanente;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA DEL PARQUE;NAN
+MASCULINO;Con universitario completo;39;35000;8860;SI;Monotributista;Relación de dependencia contratado;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA DEL PARQUE;NAN
+FEMENINO;Con universitario completo;39;35000;8860;NO;Monotributista;Relación de dependencia planta permanente;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA DEL PARQUE;NAN
+FEMENINO;Con universitario completo;36;61516;8860;SI;Relación de dependencia planta permanente;Autónomo;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA DEL PARQUE;NAN
+FEMENINO;Con secundaria completa;40;18000;8860;NO;Relación de dependencia contratado;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA DEL PARQUE;NAN
+MASCULINO;Con universitario completo;31;66000;9500;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA DEL PARQUE;NAN
+MASCULINO;Con universitario incompleto;26;41000;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA DEL PARQUE;NAN
+FEMENINO;Con secundaria completa;31;29000;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA DEL PARQUE;NAN
+FEMENINO;Con universitario completo;51;44000;8860;SI;Relación de dependencia planta permanente;Relación de dependencia planta permanente;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA DEVOTO;NAN
+FEMENINO;Con secundaria completa;29;40000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA DEVOTO;NAN
+FEMENINO;Con secundaria completa;30;25000;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA DEVOTO;NAN
+MASCULINO;Con universitario incompleto;37;40000;9500;SI;Monotributista;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA DEVOTO;NAN
+FEMENINO;Con universitario completo;34;19700;8860;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA DEVOTO;NAN
+MASCULINO;Con universitario completo;37;43000;9500;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA DEVOTO;NAN
+FEMENINO;Con universitario incompleto;30;34000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA GRAL. MITRE;NAN
+MASCULINO;Con universitario incompleto;34;37863;8060;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA GRAL. MITRE;NAN
+FEMENINO;Con posgrado o máster incompleto;30;29000;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA GRAL. MITRE;NAN
+MASCULINO;Con universitario incompleto;39;33900;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA GRAL. MITRE;NAN
+FEMENINO;Con universitario incompleto;24;24000;8060;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA LUGANO;NAN
+FEMENINO;Con universitario incompleto;31;29000;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA LUGANO;NAN
+FEMENINO;Con secundaria completa;37;39525;8060;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA LUGANO;NAN
+FEMENINO;Con universitario incompleto;40;30000;7560;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA LUGANO;NAN
+MASCULINO;Con secundaria completa;38;23000;8860;NO;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA LUGANO;NAN
+FEMENINO;Con secundaria completa;28;29000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA LUGANO;NAN
+MASCULINO;Con secundaria incompleta;32;25000;8060;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA LUGANO;NAN
+FEMENINO;Con universitario incompleto;27;40465;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA LUGANO;NAN
+FEMENINO;Con universitario completo;54;53000;9500;NO;Monotributista;;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA LUGANO;NAN
+MASCULINO;Con universitario completo;26;40660;8860;NO;Relación de dependencia planta permanente;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA LUGANO;NAN
+FEMENINO;Con universitario incompleto;29;20100;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA LUGANO;NAN
+FEMENINO;Con secundaria incompleta;23;29000;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA LUGANO;NAN
+MASCULINO;Con secundaria completa;29;27000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA LUGANO;NAN
+FEMENINO;Con universitario incompleto;33;25000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;10;VILLA LURO;NAN
+FEMENINO;Con universitario incompleto;34;47000;8860;SI;Relación de dependencia transitorio;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;10;VILLA LURO;NAN
+FEMENINO;Con secundaria completa;26;26900;9500;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;10;VILLA LURO;NAN
+MASCULINO;Con secundaria incompleta;50;33000;8060;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;15;VILLA ORTUZAR;NAN
+MASCULINO;Con universitario completo;31;21466;8060;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;15;VILLA ORTUZAR;NAN
+FEMENINO;Con universitario completo;33;53000;8860;SI;Monotributista;;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;VILLA PUEYRREDÓN;NAN
+FEMENINO;Con secundaria completa;34;53000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;VILLA PUEYRREDÓN;NAN
+MASCULINO;Con universitario incompleto;39;53762;9500;SI;Monotributista;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;VILLA PUEYRREDÓN;NAN
+MASCULINO;Con secundaria completa;47;20000;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA RIACHUELO;NAN
+FEMENINO;Con universitario incompleto;33;39778;8860;NO;Relación de dependencia planta permanente;Monotributista;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA RIACHUELO;NAN
+FEMENINO;Con universitario completo;30;22000;8860;SI;Relación de dependencia contratado;;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA RIACHUELO;NAN
+MASCULINO;Con universitario incompleto;33;39471;8860;SI;Relación de dependencia contratado;;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA SANTA RITA;NAN
+MASCULINO;Con universitario completo;33;36000;9500;SI;Relación de dependencia planta permanente;Relación de dependencia planta permanente;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA SANTA RITA;NAN
+MASCULINO;Con universitario incompleto;41;60950;9500;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;11;VILLA SANTA RITA;NAN
+MASCULINO;Con primaria completa;55;18522;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA SOLDATI;NAN
+MASCULINO;Con universitario incompleto;41;22000;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA SOLDATI;NAN
+FEMENINO;Con universitario completo;37;48400;8060;SI;Relación de dependencia contratado;;CIUDAD AUTÓNOMA DE BUENOS AIRES;8;VILLA SOLDATI;NAN
+MASCULINO;Con universitario completo;37;19599;8860;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;VILLA URQUIZA;NAN
+FEMENINO;Con universitario completo;34;35000;8860;SI;Monotributista;;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;VILLA URQUIZA;NAN
+MASCULINO;Con universitario incompleto;28;30000;8860;NO;Relación de dependencia contratado;;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;VILLA URQUIZA;NAN
+MASCULINO;Con secundaria completa;30;31000;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;VILLA URQUIZA;NAN
+MASCULINO;Con universitario completo;34;26400;8860;SI;Monotributista;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;VILLA URQUIZA;NAN
+MASCULINO;Con universitario incompleto;22;21000;8860;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;VILLA URQUIZA;NAN
+FEMENINO;Con universitario completo;33;26000;8860;NO;Monotributista;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;VILLA URQUIZA;NAN
+MASCULINO;Con universitario completo;30;22000;9500;NO;Monotributista;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;VILLA URQUIZA;NAN
+FEMENINO;Con secundaria completa;32;47000;9500;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;VILLA URQUIZA;NAN
+FEMENINO;Con universitario incompleto;36;30600;8860;SI;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;VILLA URQUIZA;NAN
+FEMENINO;Con universitario incompleto;22;60000;10000;NO;Relación de dependencia planta permanente;;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;VILLA URQUIZA;NAN
+MASCULINO;Con universitario incompleto;34;33678;9500;SI;Relación de dependencia planta permanente;Ninguna;CIUDAD AUTÓNOMA DE BUENOS AIRES;12;VILLA URQUIZA;NAN
+MASCULINO;Con universitario completo;45;47000;8860;NO;Relación de dependencia transitorio;Relación de dependencia planta permanente;CIUDAD AUTÓNOMA DE BUENOS AIRES;;;
